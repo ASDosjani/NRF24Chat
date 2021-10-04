@@ -1,4 +1,3 @@
-
 [![release - v0.1-beta](https://img.shields.io/badge/release-v0.1--beta-blue)](https://)
 # NRF24Chat
 Hi, this is a **BETA** Android app, that allow you to chat through nrf24 modules with arduino. It is based on felHR85 UsbSerial library.
