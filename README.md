@@ -20,5 +20,6 @@ For example:
 |13|SCK|
 |11|MOSI|
 |12|MISO|
+
 *[Download apk](https://github.com/ASDosjani/MFE/raw/master/NRF24Chat.apk)* and install. (Android 4.2+)
 P.S. It's open source, you can use it as you want.
