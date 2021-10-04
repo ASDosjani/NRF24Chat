@@ -25,7 +25,7 @@ For example:
 
 I made a 3D Printed case for the electronic.
 ![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/1.jpg)
-![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/2.jpg?raw=true)
-![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/3.jpg?raw=true)
+![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/2.jpg)
+![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/3.jpg)
 
 P.S. It's open source, you can use it as you want.
