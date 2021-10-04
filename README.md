@@ -24,8 +24,8 @@ For example:
 *[Download apk](https://github.com/ASDosjani/NRF24Chat/raw/master/Files/NRF24Chat.apk)* and install. (Android 4.2+)
 
 I made a 3D Printed case for the electronic.
-![enter image description here](https://github.com/ASDosjani/NRF24Chat/raw/master/Files/1.jpg)
-![enter image description here](https://github.com/ASDosjani/NRF24Chat/raw/master/Files/2.jpg)
-![enter image description here](https://github.com/ASDosjani/NRF24Chat/raw/master/Files/3.jpg)
+![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/1.jpg?raw=true)
+![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/2.jpg?raw=true)
+![enter image description here](https://github.com/ASDosjani/NRF24Chat/blob/master/Files/3.jpg?raw=true)
 
 P.S. It's open source, you can use it as you want.
